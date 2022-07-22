@@ -18,16 +18,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         mBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
     }
-
     override fun onStart() {
         super.onStart()
-
         if(auth.currentUser == null){
+            // 로그인 상태가 아님
             startActivity(Intent(this, LoginActivity::class.java))
         } else{
+            // 로그인 되어있는 상태
             startActivity(Intent(this, LikeActivity::class.java))
+            finish()
         }
     }
 }

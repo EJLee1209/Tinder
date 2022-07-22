@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../.gradle/caches/transforms-3/3d8ade494712a30914a830e27b682af2/transformed/facebook-share-4.42.0/res/drawable/com_facebook_button_send_background.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_like.xml" value="0.181170654296875" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.22418478260869565" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22418478260869565" />
+        <entry key="app/src/main/res/layout/activity_matched_user.xml" value="0.23324275362318841" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.23324275362318841" />
+        <entry key="app/src/main/res/layout/item_matched_user.xml" value="0.23324275362318841" />
       </map>
     </option>
   </component>
