@@ -45,3 +45,8 @@ https://velog.io/@l2hyunwoo/Android-RecyclerView-DiffUtil-ListAdapter
 
 요약 하자면 기존에 사용하던 RecyclerView의 notifyDataSetChanged()는 데이터가 변경 될 때 모든 데이터가 통째로 업데이트 되면서 지연시간이 발생하는 이슈가 있다. 
 DiffUtill 은 이러한 문제를 해결하기 위해서 현재 리스트와 교체 해야할 리스트를 비교하여 실제로 바꿔야 하는 데이터만 업데이트 해서 훨씬 빠른 속도로 업데이트가 가능하다!
+
+# ❗️ 추가 해볼 만한 기능들
+- 매칭된 사용자 간에 채팅 기능
+- 이미지가 있는 카드
+
