@@ -2,7 +2,8 @@
 틴더 클론코딩
 
 # 📌 실행화면
-<img src="https://velog.velcdn.com/images/dldmswo1209/post/c709fa8a-0b7b-4862-8f0d-906fc61bd0df/image.gif" width="30%" height="30%">
+
+![Tinder](https://user-images.githubusercontent.com/101651909/180449243-1078dd79-0690-449b-9045-e9e478abea31.gif)
 
 # 📌 요구 사항
 - Firebase Authenetication 사용하기
